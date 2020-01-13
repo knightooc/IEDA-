@@ -1,0 +1,360 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="db2">
+      <artifact name="DB2" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="db2.jtopen">
+      <artifact name="JTOpen (DB2 iSeries)" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="derby.remote">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.embedded">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="azure.ms">
+      <artifact name="SQL Server" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="sqlserver.ms">
+      <artifact name="SQL Server" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="sqlserver.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.ase">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mysql">
+      <artifact name="MySQL Connector/J" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mariadb">
+      <artifact name="MariaDB Connector J" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle">
+      <artifact name="Oracle" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="false" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://D:/shanghaiyiyao/shaphar/trace-web/web/WEB-INF/lib/ojdbc6.jar</url>
+      </library>
+      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
+    <driver id="postgresql">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="redshift">
+      <artifact name="Redshift" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="hsqldb.remote">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hsqldb.local">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="h2.unified">
+      <artifact name="H2" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlite.xerial">
+      <artifact name="Xerial SQLiteJDBC" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="exasol">
+      <artifact name="Exasol" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="clickhouse">
+      <artifact name="ClickHouse" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle.jdbc.driver.OracleDriver" name="oracle.jdbc.driver.OracleDriver" driver-class="oracle.jdbc.driver.OracleDriver">
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/struts2-core-2.2.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-support-2.0.8.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/struts2-spring-plugin-2.2.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/struts2-json-plugin-2.2.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-security-core-2.0.6.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-context-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/xwork-core-2.2.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/standard-1.1.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/struts2-config-browser-plugin-2.2.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/commons-jexl-1.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/struts2-convention-plugin-2.2.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/dom4j-1.6.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/poi-3.7.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-security-cas-client-2.0.6.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/poi-ooxml-3.7.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-test-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/poi-ooxml-schemas-3.7.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/xmlbeans-2.3.0.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-tx-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-web-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-dao-2.0.8.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-expression-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-jdbc-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-orm-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/log4j-1.2.16.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/p6spy-1.3.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-core-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/jstl-1.1.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/jcaptcha-all-1.0-RC6.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/ibatis-sqlmap-2.3.4.726.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/dbunit-2.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/concurrent-1.3.4.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/commons-lang-2.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/commons-fileupload-1.2.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/commons-collections-3.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/commons-beanutils-1.7.0.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/com.springsource.oracle.jdbc-10.2.0.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/cglib-nodep-2.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/c3p0-0.9.1.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/oscache-2.4.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-aop-2.0.8.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/junit-3.8.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/ognl-3.0.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/javassist-3.12.1.GA.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/jgroups-all-2.12.0.Final.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/commons-logging-1.1.1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/freemarker-2.3.16.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/commons-configuration-1.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/commons-io-1.4.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/commons-codec-1.3.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/cas-client-core-3.1.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/clickstream-1.0.3.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/poi-scratchpad-3.2-FINAL.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/aopalliance-1.0.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-beans-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/all/spring-asm-3.0.5.RELEASE.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/forCompile/javaee.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/jReport/jasperreports-4.0.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/jReport/jasperreports-applet-4.0.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/jReport/commons-digester-2.0.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/jReport/groovy-all-1.7.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/jReport/iText-2.1.7.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/jReport/jxl-2.6.10.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/jReport/rhino-1.7R1.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/jReport/jasperreports-javaflow-4.0.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/libDepend/jReport/jasperreports-fonts-4.0.2.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-soapmonitor-servlet-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-metadata-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-transport-local-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-kernel-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-adb-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-adb-codegen-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-codegen-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-corba-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-java2wsdl-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-jaxbri-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-jaxws-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-jibx-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-fastinfoset-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-json-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-mtompolicy-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-saaj-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-spring-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-transport-http-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axis2-xmlbeans-1.5.5.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axiom-dom-1.2.11.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axiom-api-1.2.11.jar!/</url>
+      </library>
+      <library>
+        <url>jar://D:/Source-ssi/sxdcp-webservice/src/main/webapp/WEB-INF/lib/axiom-impl-1.2.11.jar!/</url>
+      </library>
+    </driver>
+  </component>
+</application>

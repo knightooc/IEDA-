@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="function" />
+      <item value="javascript" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="showWordsOnStartup" value="true" />
+  </component>
+</application>
