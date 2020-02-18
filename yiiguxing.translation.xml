@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* * Resets the &lt;code&gt;count&lt;/code&gt; field of this byte array output * stream to zero, so that all currently accumulated output in the * output stream is discarded. The output stream can be used again, * reusing the already allocated buffer space. *" />
       <item value="function" />
       <item value="javascript" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
