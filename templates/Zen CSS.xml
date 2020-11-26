@@ -2,8 +2,4 @@
   <template name="w" value="width: $END$;" description="width:...;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="td" value="text-decoration:$VAR0$;" description="text-decoration:...;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;none&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
 </templateSet>
