@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collection" />
+      <item value="collect ION" />
+      <item value="collect IONS" />
+      <item value="collect" />
       <item value="Inst" />
       <item value="Trace Server Application" />
       <item value="Enable Discovery Client" />
@@ -10,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
